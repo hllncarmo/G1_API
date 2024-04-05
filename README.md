@@ -72,39 +72,7 @@ User Stories
 - [x] Verificar a existência de erros nas bases de dados apresentadas e identificá-los;
 - [x] Fazer Burndown da Estimativa das atividades;
 - [x] Estruturar base de dados MySQL;
-
-## Sprint 2. Elaboração
-- [x] Identificar o modais utilizados Importação e Exportação;
-- [x] Pesquisar o que é trâmites internacionais;
-- [x] Analisar Base de dados com o Filtro dos Municípios;
-- [x] Criar relação entre RFs e Municípios de Exportação e importação;
-- [x] Pesquisar cargas exportadas com potencial para a atividade da próxima Sprint;
-- [x] Pesquisar cargas importadas com potencial para a atividade do próximo Sprint;
-- [x] Aprender / Ensinar Github;
-- [x] Aprender / Ensinar Jira;
-### Burndown Sprint 1      
-![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint1.jpeg)
-## Sprint 3. Aperfeiçoamento
-- [X] Estabelecer a probabilidade de saída de produtos por determinada RF
-- [X] Desenhar o fluxo de exportação de uma mercadoria preestabelecida
-- [X] Relacionar os dados apresentados
-
-### MVP Sprint 2
-![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/MVPSprint2.png)
-
-### Burndown Sprint 2
-![BRDW2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint2.jpeg)
-## Sprint 4. Conclusão
-- [X] Criar tabelas auxiliares no excel
-- [X] Estabelecer relações entre os dados encontrados
-- [X] Criar Dashboard
-- [X] Estruturar apresentação no Power BI
-
- ### MVP Sprint 3
-![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/MVP%20Sprint3.jpeg)
-
-### Burndown Sprint 3
-![BRDW2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint3.jpeg)
+### MVP da Sprint 1
 
 # Competências desenvolvidas
 
