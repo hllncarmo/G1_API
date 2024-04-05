@@ -43,14 +43,7 @@ Análise de produtividade de veículos, de otimização de distribuição e de c
  * Power Point
  * MySQL
  * Chat GPT e Copilot
-
- ### Mindset Digital
-- Jira
-- [![Jira](https://img.youtube.com/vi/uX7IBKYgcVI/0.jpg)](https://www.youtube.com/watch?v=uX7IBKYgcVI)
-- Backlog
-- [![Backlog](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+ * Phyton
 
 # Cronograma das Sprints
 
@@ -67,18 +60,20 @@ Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Power BI / Jira
+- MySQL
+- Chat GPT e Copilot
+- Phyton
   
 User Stories
-## Sprint 0. Concepção
-- [x] Criar Backlog com os passos das Atiividades e seus respectivos atuadores;
+## Sprint 1. Concepção
+- [x] Criar relatório da Sprint;
 - [x] Estruturar Jira;
 - [x] Estruturar Github;
-- [x] Questionar indicadores necessários;
+- [x] Verificar a existência de erros nas bases de dados apresentadas e identificá-los;
 - [x] Fazer Burndown da Estimativa das atividades;
-- [x] Aprender / Ensinar Github;
-- [x] Aprender / Ensinar Jira;
+- [x] Estruturar base de dados MySQL;
 
-## Sprint 1. Elaboração
+## Sprint 2. Elaboração
 - [x] Identificar o modais utilizados Importação e Exportação;
 - [x] Pesquisar o que é trâmites internacionais;
 - [x] Analisar Base de dados com o Filtro dos Municípios;
@@ -89,7 +84,7 @@ User Stories
 - [x] Aprender / Ensinar Jira;
 ### Burndown Sprint 1      
 ![MVP2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint1.jpeg)
-## Sprint 2. Aperfeiçoamento
+## Sprint 3. Aperfeiçoamento
 - [X] Estabelecer a probabilidade de saída de produtos por determinada RF
 - [X] Desenhar o fluxo de exportação de uma mercadoria preestabelecida
 - [X] Relacionar os dados apresentados
@@ -99,7 +94,7 @@ User Stories
 
 ### Burndown Sprint 2
 ![BRDW2](https://github.com/G3LS/G3LS/blob/main/.img/Burndown%20Sprint2.jpeg)
-## Sprint 3. Conclusão
+## Sprint 4. Conclusão
 - [X] Criar tabelas auxiliares no excel
 - [X] Estabelecer relações entre os dados encontrados
 - [X] Criar Dashboard
