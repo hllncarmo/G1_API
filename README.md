@@ -19,12 +19,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/09/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Kick-off%20API%202N.pdf) | 
-|00| 25/09/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20da%20Sprint%200.pdf) | 
-|01| 16/10/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 06/11/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%202.pdf) | 
-|03| 27/11/2023 | Concluído | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%203.pdf) | 
-|Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório]() | 
+|Kick Off | 08/03/2024 | Concluído | [Ver Relatório]() | 
+|01| 19/04/2024 | Concluída | [Ver Relatório]() | 
+|02| 10/05/2024 | A fazer | [Ver Relatório]() | 
+|03| 07/06/2024 | A fazer | [Ver Relatório]() | 
+|04| 21/06/2024| A fazer | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%203.pdf) | 
+|Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
 
 # Equipe
 ![Equipe](https://github.com/G3LS/G3LS/blob/main/.img/Equipe.png)
