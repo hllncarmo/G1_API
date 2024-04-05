@@ -4,7 +4,7 @@
 Projeto baseado na metodologia Ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
-* [Projeto](#projeto-template)
+* [Projeto](#projeto)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
@@ -13,7 +13,7 @@ Projeto baseado na metodologia Ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API)
+# Projeto 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil.  
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
@@ -30,9 +30,10 @@ Sprint | Previsão | Status| Histórico|
 ![Equipe](https://github.com/G3LS/G3LS/blob/main/.img/Equipe.png)
 
 # Objetivo do Projeto
-Criar base de dados relacional e Dashboard que permita:
-* Identificar os modais ultilizados nos trâmites internacionais e de movimentação de carga
-* Desenhar a geografia do fluxo da carga para importação e exportação
+Análise de produtividade de veículos, de otimização de distribuição e de custos de rotas de uma empresa embarcadora de carga
+* Criar e modelar banco de dados em SQL.
+* Criação de visualizador de indicadores no BI.
+* Aplicação do método de transporte para otimização da distribuição.
 
 ## Tecnologias Utilizadas
  ### Tecnológias Específicas/Apoio
@@ -40,6 +41,8 @@ Criar base de dados relacional e Dashboard que permita:
  * Power Bi
  * Excel
  * Power Point
+ * MySQL
+ * Chat GPT e Copilot
 
  ### Mindset Digital
 - Jira
@@ -54,7 +57,7 @@ Criar base de dados relacional e Dashboard que permita:
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://g3log-2semestre.atlassian.net/jira/software/projects/G3LS/boards/1)
+#### Cronograma das Sprints[(clique aqui)](https://g3log-2semestre.atlassian.net/jira/software/projects/GA3/boards/2)
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
@@ -142,9 +145,8 @@ User Stories
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Lucas dos Santos                |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-26093664/) |
-| Scrum Master  | Thayssa Andrade dos Santos        |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thayssa-andrade-531a20200/)  |
-|  Team Member  | Ana Júlia do Couto Brandão        |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)        |
+| Product Owner | Thayssa Andrade dos Santos        |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thayssa-andrade-531a20200/)  |
+| Scrum Master  | Ana Júlia do Couto Brandão        |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)        | 
 |  Team Member  | Hellen de Sousa Santos Carmo      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-sousa-26717b27b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hllncarmo)   |
 |  Team Member  | Marcos Vinicius Restani Avanzini  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-avanzini-7544331b6/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcosAvanzini)   |
 |  Team Member  | Pedro Luís Cordeiro Dias Lourenço |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lu%C3%ADs-louren%C3%A7o-785314225/)          |
