@@ -64,7 +64,6 @@ Requisitos não funcionais
 - Chat GPT e Copilot
 - Phyton
   
-User Stories
 ## Sprint 1. Concepção
 - [x] Criar relatório da Sprint;
 - [x] Estruturar Jira;
