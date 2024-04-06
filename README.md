@@ -63,7 +63,8 @@ Requisitos não funcionais
 - MySQL
 - Chat GPT e Copilot
 - Phyton
-  
+
+# Backlog do produto
 ## Sprint 1. Concepção
 - [x] Criar relatório da Sprint;
 - [x] Estruturar Jira;
