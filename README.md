@@ -64,13 +64,19 @@ Requisitos não funcionais
 
 # Backlog do produto
 ## Sprint 1. Concepção
-- [x] Criar relatório da Sprint;
+- [ ] Criar relatório da Sprint;
 - [x] Estruturar Jira;
 - [x] Estruturar Github;
 - [x] Verificar a existência de erros nas bases de dados apresentadas e identificá-los;
 - [x] Fazer Burndown da Estimativa das atividades;
 - [x] Estruturar base de dados MySQL;
+      
 ### MVP da Sprint 1
+## Sprint 2. Aperfeiçoamento
+- [ ] Estabelecer conexão MySQL > PowerBI
+- [ ] Criar estrutura de dados PowerBI
+- [ ] Montar views iniciais para o projeto
+- [ ] Criar padrão das views para PowerBI 
 
 # Competências desenvolvidas
 
