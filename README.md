@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
 
 # Equipe
-![Equipe](https://github.com/hllncarmo/G1_API/commit/f50101da12423d225eb8c371b37d416a8a0fd797)
+![Equipe](https://github.com/hllncarmo/G1_API/blob/main/WhatsApp%20Image%202024-04-15%20at%2012.26.31.jpeg)
 
 # Objetivo do Projeto
 Análise de produtividade de veículos, de otimização de distribuição e de custos de rotas de uma empresa embarcadora de carga
