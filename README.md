@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
 
 # Equipe
-![Equipe](https://github.com/G3LS/G3LS/blob/main/.img/Equipe.png)
+![Equipe](https://github.com/hllncarmo/G1_API/commit/f50101da12423d225eb8c371b37d416a8a0fd797)
 
 # Objetivo do Projeto
 Análise de produtividade de veículos, de otimização de distribuição e de custos de rotas de uma empresa embarcadora de carga
