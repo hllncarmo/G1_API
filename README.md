@@ -64,7 +64,7 @@ Requisitos não funcionais
 
 # Backlog do produto
 ## Sprint 1. Concepção
-- [ ] Criar relatório da Sprint;
+- [x] Criar relatório da Sprint;
 - [x] Estruturar Jira;
 - [x] Estruturar Github;
 - [x] Verificar a existência de erros nas bases de dados apresentadas e identificá-los;
