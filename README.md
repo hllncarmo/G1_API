@@ -72,10 +72,11 @@ Requisitos não funcionais
 - [x] Estruturar base de dados MySQL;
       
 ### MVP Sprint 1
-![MVP2]()
+![MVP2](https://github.com/hllncarmo/G1_API/blob/main/Img/MVP1.png)
+![MVP2](https://github.com/hllncarmo/G1_API/blob/main/Img/MVP2.png)
 
 ### Burndown Sprint 1
-![BRDW2]()
+![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown.png)
 
 
 ## Sprint 2. Aperfeiçoamento
