@@ -20,7 +20,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/03/2024 | Concluído || 
-|01| 19/04/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Doc/Relat%C3%B3rioS1.pdf) | 
+|01| 19/04/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Img/RelatórioS1.pdf) | 
 |02| 10/05/2024 | A fazer | [Ver Relatório]() | 
 |03| 07/06/2024 | A fazer | [Ver Relatório]() | 
 |04| 21/06/2024| A fazer | [Ver Relatório]() | 
