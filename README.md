@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 19/04/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Doc/Relat%C3%B3rioS1.pdf) | 
 |02| 10/05/2024 | A fazer | [Ver Relatório]() | 
 |03| 07/06/2024 | A fazer | [Ver Relatório]() | 
-|04| 21/06/2024| A fazer | [Ver Relatório](https://github.com/G3LS/G3LS/blob/main/Arquivos/Relat%C3%B3rio%20Sprint%203.pdf) | 
+|04| 21/06/2024| A fazer | [Ver Relatório]() | 
 |Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
 
 # Equipe
@@ -71,7 +71,13 @@ Requisitos não funcionais
 - [x] Fazer Burndown da Estimativa das atividades;
 - [x] Estruturar base de dados MySQL;
       
-### MVP da Sprint 1
+### MVP Sprint 1
+![MVP2]()
+
+### Burndown Sprint 1
+![BRDW2]()
+
+
 ## Sprint 2. Aperfeiçoamento
 - [ ] Estabelecer conexão MySQL > PowerBI
 - [ ] Criar estrutura de dados PowerBI
