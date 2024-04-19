@@ -127,7 +127,7 @@ Requisitos não funcionais
 
 ## Sprint 3. Front-end
 <details>
-<summary>Tarefas Sprint 4</summary>
+<summary>Tarefas Sprint 3</summary>
  
 - [ ] Modelar telas adicionais do Power Bi
 - [ ] Modelar as visões para o padrão estabelecido
