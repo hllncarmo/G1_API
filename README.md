@@ -100,15 +100,20 @@ Requisitos não funcionais
  
 - [ ] Estabelecer conexão MySQL > PowerBI
 - [ ] Criar estrutura de dados PowerBI
-- [ ] Montar views iniciais para o projeto
 - [ ] Criar padrão das views para PowerBI
+- [ ] Criar Código inicial para Otimização
+- [ ] Definir modelo de otimização
+- [ ] Criar os KPIs
+- [ ] Corrigir outliers e erros da base
 
 </details>
 
 <details>
 <summary>MVP Sprint 2</summary>
 
-**A definir**
+### MVP Esperado da Sprint 2
+- Telas Inicias Para o Power Bi
+- Primeiro Código para otimização
 
 </details>
 
@@ -124,16 +129,19 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 4</summary>
  
-- [ ]
-- [ ]
-- [ ]
- 
+- [ ] Modelar telas adicionais do Power Bi
+- [ ] Modelar as visões para o padrão estabelecido
+- [ ] Utilizar o modelo definido para executar a otimização
+- [ ] Criar Visualização de otimização de rotas por veiculo
+- [ ] Montar views iniciais
+
 </details>
 
 <details>
 <summary>MVP Sprint 3</summary>
 
-**A definir**
+### Visualizações no Power Bi com os dados da otimização
+### Modelo utilizado para a Otimização
 
 </details>
 
@@ -150,16 +158,17 @@ Requisitos não funcionais
 <details>
 <summary>Tarefas Sprint 4</summary>
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Ajustes Finais no Power Bi
+- [ ] Ajustes no código de otimização se necessários 
+- [ ] Criação da documentação e apresentação final
 
 </details>
 
 <details>
 <summary>MVP Sprint 4</summary>
 
-**A definir**
+### Conclusão do Projeto
+### Apresentação Final
 
 </details>
 
