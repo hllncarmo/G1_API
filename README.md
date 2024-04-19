@@ -63,60 +63,112 @@ Requisitos não funcionais
 - Phyton
 
 # Backlog do produto
+
 ## Sprint 1. Concepção
+
+<details>
+<summary>Tarefas Sprint 1</summary>
+ 
 - [x] Criar relatório da Sprint;
 - [x] Estruturar Jira;
 - [x] Estruturar Github;
 - [x] Verificar a existência de erros nas bases de dados apresentadas e identificá-los;
 - [x] Fazer Burndown da Estimativa das atividades;
 - [x] Estruturar base de dados MySQL;
-      
-### MVP Sprint 1
+
+</details>
+
+<details>
+<summary>MVP Sprint 1</summary>
+
 ![MVP2](https://github.com/hllncarmo/G1_API/blob/main/Img/MVP1.png)
 ![MVP2](https://github.com/hllncarmo/G1_API/blob/main/Img/MVP2.png)
 
-### Burndown Sprint 1
+</details>
+
+<details>
+<summary>Burndown Sprint 1</summary>
+ 
 ![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown.png)
 
+</details>
 
 ## Sprint 2. Back-end
+
+<details>
+<summary>Tarefas Sprint 2</summary>
+ 
 - [ ] Estabelecer conexão MySQL > PowerBI
 - [ ] Criar estrutura de dados PowerBI
 - [ ] Montar views iniciais para o projeto
-- [ ] Criar padrão das views para PowerBI 
+- [ ] Criar padrão das views para PowerBI
 
-### MVP Sprint 2
-![MVP2](https://github.com/hllncarmo/G1_API/blob/main/Img/MVP1.png)
-![MVP2](https://github.com/hllncarmo/G1_API/blob/main/Img/MVP2.png)
+</details>
 
-### Burndown Sprint 2
-![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown2.png2)
+<details>
+<summary>MVP Sprint 2</summary>
+
+**A definir**
+
+</details>
+
+
+<details>
+<summary>Burndown Sprint 2</summary>
+
+![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown2.png)
+
+</details>
 
 ## Sprint 3. Front-end
-- [ ] Estabelecer conexão MySQL > PowerBI
-- [ ] Criar estrutura de dados PowerBI
-- [ ] Montar views iniciais para o projeto
-- [ ] Criar padrão das views para PowerBI 
+<details>
+<summary>Tarefas Sprint 4</summary>
+ 
+- [ ]
+- [ ]
+- [ ]
+ 
+</details>
 
-### MVP Sprint 3
+<details>
+<summary>MVP Sprint 3</summary>
 
 **A definir**
 
-### Burndown Sprint 3
+</details>
+
+<details>
+<summary>Burndown Sprint 3</summary>
+
 ![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown3.png)
 
-## Sprint 4. Finalização
-- [ ] Estabelecer conexão MySQL > PowerBI
-- [ ] Criar estrutura de dados PowerBI
-- [ ] Montar views iniciais para o projeto
-- [ ] Criar padrão das views para PowerBI 
+</details>
 
-### MVP Sprint 4
+
+## Sprint 4. Finalização
+
+<details>
+<summary>Tarefas Sprint 4</summary>
+
+- [ ]
+- [ ]
+- [ ]
+
+</details>
+
+<details>
+<summary>MVP Sprint 4</summary>
 
 **A definir**
 
-### Burndown Sprint 4
+</details>
+
+<details>
+<summary>Burndown Sprint 4</summary>
+
 ![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown4.png)
+
+</details>
 
 
 # Competências desenvolvidas
