@@ -89,7 +89,7 @@ Requisitos não funcionais
 <details>
 <summary>Burndown Sprint 1</summary>
  
-![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown.png)
+![BRDW1](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown.png)
 
 </details>
 
@@ -140,7 +140,7 @@ Requisitos não funcionais
 <details>
 <summary>Burndown Sprint 3</summary>
 
-![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown3.png)
+![BRDW3](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown3.png)
 
 </details>
 
@@ -166,7 +166,7 @@ Requisitos não funcionais
 <details>
 <summary>Burndown Sprint 4</summary>
 
-![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown4.png)
+![BRDW4](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown4.png)
 
 </details>
 
