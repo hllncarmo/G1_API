@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/03/2024 | Concluído || 
 |01| 19/04/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Img/RelatórioS1.pdf) | 
-|02| 10/05/2024 | A fazer | [Ver Relatório]() | 
+|02| 10/05/2024 | Concluída | [Ver Relatório]() | 
 |03| 07/06/2024 | A fazer | [Ver Relatório]() | 
 |04| 21/06/2024| A fazer | [Ver Relatório]() | 
 |Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
@@ -105,7 +105,11 @@ Requisitos não funcionais
 - [ ] Definir modelo de otimização
 - [ ] Criar os KPIs
 - [ ] Corrigir outliers e erros da base
-
+- [ ] Tirar dúvidas com o cliente
+- [ ] Montar views iniciais para o projeto
+- [ ] Criar relatório da sprint
+- [ ] Fazer Power Point para apresentação da sprint
+- [ ] Atualizar GitHub
 </details>
 
 <details>
@@ -134,6 +138,10 @@ Requisitos não funcionais
 - [ ] Utilizar o modelo definido para executar a otimização
 - [ ] Criar Visualização de otimização de rotas por veiculo
 - [ ] Montar views iniciais
+- [ ] Criar relatório da Sprint
+- [ ] Tirar dúvidas com o cliente
+- [ ] Atualizar GitHub
+- [ ] Verificar possibilidade de views complementares
 
 </details>
 
@@ -160,7 +168,9 @@ Requisitos não funcionais
 
 - [ ] Ajustes Finais no Power Bi
 - [ ] Ajustes no código de otimização se necessários 
-- [ ] Criação da documentação e apresentação final
+- [ ] Criar relatório final do projeto
+- [ ] Tirar dúvidas com o cliente
+- [ ] Criar apresentação para Sprint
 
 </details>
 
