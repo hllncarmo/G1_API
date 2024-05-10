@@ -117,6 +117,7 @@ Requisitos não funcionais
 
 ### MVP da Sprint 2
 - Telas Inicias Para o Power Bi
+  ![MVPS2](https://github.com/hllncarmo/G1_API/blob/main/Img/TelaBi.jpg)
 - Primeiro Código para otimização
 ```python 
  from pulp import LpMinimize, LpProblem, lpSum, LpVariable, LpStatus
@@ -388,7 +389,7 @@ Requisitos não funcionais
 <details>
 <summary>Burndown Sprint 2</summary>
 
-![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown2.png)
+![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/BurnDown2.jpg)
 
 </details>
 
