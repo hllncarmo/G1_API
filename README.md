@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 08/03/2024 | Concluído || 
 |01| 19/04/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Docs/RelatórioS1.pdf) | 
 |02| 10/05/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Docs/RelatorioSprint2.pdf) | 
-|03| 07/06/2024 | A fazer | [Ver Relatório]() | 
+|03| 07/06/2024 | Concluída | [Ver Relatório]() | 
 |04| 21/06/2024| A fazer | [Ver Relatório]() | 
 |Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
 
@@ -415,7 +415,7 @@ Requisitos não funcionais
 
 ### Visualizações no Power Bi com os dados da otimização
 - Telas Power Bi
-  ![MVPS2](https://github.com/hllncarmo/G1_API/blob/main/Img/TelaBi.jpg)
+  ![MVPS3](https://github.com/hllncarmo/G1_API/blob/main/Captura%20de%20tela%202024-06-06%20211533.png)
 - Primeiro Código para otimização
 ```python
 from pulp import LpMinimize, LpProblem, lpSum, LpVariable, LpStatus
@@ -683,7 +683,7 @@ for v in prob.variables():
 <details>
 <summary>Burndown Sprint 3</summary>
 
-![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/BurnDown2.jpg)
+![BRDW3](https://github.com/hllncarmo/G1_API/blob/main/Img/BurnDown2.jpg)
 
 </details>
 
