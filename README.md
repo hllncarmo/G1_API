@@ -414,7 +414,7 @@ Requisitos não funcionais
 <summary>MVP Sprint 3</summary>
 
 ### Visualizações no Power Bi com os dados da otimização
-- Telas Inicias Para o Power Bi
+- Telas Power Bi
   ![MVPS2](https://github.com/hllncarmo/G1_API/blob/main/Img/TelaBi.jpg)
 - Primeiro Código para otimização
 ```python
@@ -679,7 +679,15 @@ for v in prob.variables():
 ```
 </details>
 
-## Sprint 4. Back-end
+
+<details>
+<summary>Burndown Sprint 3</summary>
+
+![BRDW2](https://github.com/hllncarmo/G1_API/blob/main/Img/BurnDown2.jpg)
+
+</details>
+
+## Sprint 4. Final
 
 <details>
 <summary>Tarefas Sprint 4</summary>
