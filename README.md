@@ -715,7 +715,7 @@ for v in prob.variables():
 <details>
 <summary>Burndown Sprint 4</summary>
 
-![BRDW4](https://github.com/hllncarmo/G1_API/blob/main/Img/Burndown4.png)
+![BRDW4](https://github.com/hllncarmo/G1_API/blob/main/Img/BD4.png)
 
 </details>
 
