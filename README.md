@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 19/04/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Docs/RelatórioS1.pdf) | 
 |02| 10/05/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Docs/RelatorioSprint2.pdf) | 
 |03| 07/06/2024 | Concluída | [Ver Relatório](https://github.com/hllncarmo/G1_API/blob/main/Docs/Relato%CC%81rio%20Sprint%203.pdf) | 
-|04| 21/06/2024| A fazer | [Ver Relatório]() | 
+|04| 21/06/2024| Concluída | [Ver Relatório]() | 
 |Feira de Soluções| 27/06/2024 | A fazer |[Ver Relatório]() | 
 
 # Equipe
@@ -692,11 +692,11 @@ for v in prob.variables():
 <details>
 <summary>Tarefas Sprint 4</summary>
 
-- [ ] Ajustes Finais no Power Bi
-- [ ] Ajustes no código de otimização se necessários 
-- [ ] Criar relatório final do projeto
-- [ ] Tirar dúvidas com o cliente
-- [ ] Criar apresentação para Sprint
+- [x] Ajustes Finais no Power Bi
+- [x] Ajustes no código de otimização se necessários 
+- [x] Criar relatório final do projeto
+- [x] Tirar dúvidas com o cliente
+- [x] Criar apresentação para Sprint
 
 </details>
 
